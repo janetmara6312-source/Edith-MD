@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+EDITH+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+BANDAHEALI;🚀+EDITH-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s)
 </div>
 
 ---------
@@ -46,7 +46,7 @@ href="https://github.com/Bandah-E-Ali/edith-md/graphs/commit-activity"><img heig
  <a href="https://github.com/Bandah-E-Ali/edith-md/fork"><img title="EDITH-MD" src="https://img.shields.io/badge/FORK-EDITH MD-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
-  **🪀 SESSION WEB 8-AUG**
+  **🪀 SESSION WEB**
   
   <a href='https://bandaheali-pair.zone.id' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
@@ -71,6 +71,16 @@ href="https://github.com/Bandah-E-Ali/edith-md/graphs/commit-activity"><img heig
     </tr>
   </table>
 </div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://mini.bandaheali.site" target="_blank">
+        <img alt="BANDAHEALI-MINI" src="https://img.shields.io/badge/BANDAHEALI-MINI%20BOT%20LINK-008080?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 -------------
 
@@ -154,26 +164,26 @@ jobs:
 <div align="center">
 
 <!-- Animated Sparkle Divider -->
-<img src="https://i.giphy.com/media/XcQ0XH32ya0Gs3QNwk/giphy.webp" width="450" alt="sparkle-divider">
+<img src="https://i.giphy.com/media/XcQ0XH32ya0Gs3QNwk/giphy.webp" width="450" alt="Bandah-E-Ali">
 
 <!-- Enhanced Glowing CTA Button -->
-<a href="https://github.com/Edith-MD/Edith-MD/fork">
+<a href="https://github.com/Bandah-E-Ali/Edith-MD/fork">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&duration=2000&pause=500&color=FF9D00&background=1A1A1A&center=true&vCenter=true&width=550&repeat=true&lines=%E2%9A%A0%EF%B8%8F++FORK++%F0%9F%8D%B4++%26++STAR++%F0%9F%8C%9F++TO++SUPPORT++%E2%9A%A0%EF%B8%8F;%F0%9F%94%A5++HELP++GROW++THE++PROJECT++%F0%9F%94%A5" alt="CTA">
 </a>
 
 <!-- New Feature Badges -->
 <div style="margin-top:25px">
   
-[![GitHub Forks](https://img.shields.io/badge/FORKS-%3F-00FFAA?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/Edith-MD/Edith-MD/fork)
-[![GitHub Stars](https://img.shields.io/badge/STARS-%3F-00BFFF?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/Edith-MD/Edith-MD)
-[![Active](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=vercel)](https://github.com/Edith-MD/Edith-MD)
+[![GitHub Forks](https://img.shields.io/badge/FORKS-%3F-00FFAA?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/Bandah-E-Ali/Edith-MD/fork)
+[![GitHub Stars](https://img.shields.io/badge/STARS-%3F-00BFFF?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/Bandah-E-Ali/Edith-MD)
+[![Active](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=vercel)](https://github.com/Bandah-E-Ali/Edith-MD)
 
 </div>
 
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/Edith-MD/Edith-MD/graphs/contributors)
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/Bandah-E-Ali/Edith-MD/graphs/contributors)
 
 </div>
 
